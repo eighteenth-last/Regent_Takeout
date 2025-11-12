@@ -1,0 +1,25 @@
+# Maven
+target/
+maven-status/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.class
+
+# Uploads and large assets
+Images/
+
+# Temporary files
+*.tmp
+~$*
